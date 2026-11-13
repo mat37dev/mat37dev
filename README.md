@@ -10,7 +10,7 @@ Je conçois et développe des **sites internet**, des **applications web et mobi
 
 ### 🛠️ Stack
 
-<a href="https://mathieucrosnier.fr"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,php,symfony,python,tailwind,postgres,mysql,supabase,docker,git,wordpress,vercel&perline=16" width="100%" alt="React, Next.js, TypeScript, JavaScript, Node.js, PHP, Symfony, Python, Tailwind CSS, PostgreSQL, MySQL, Supabase, Docker, Git, WordPress, Vercel"></a>
+<a href="https://mathieucrosnier.fr"><img src="https://skillicons.dev/icons?i=react,nextjs,ts,js,nodejs,php,symfony,python,tailwind,postgres,mysql,supabase,docker,git,wordpress,vercel&perline=8" alt="React, Next.js, TypeScript, JavaScript, Node.js, PHP, Symfony, Python, Tailwind CSS, PostgreSQL, MySQL, Supabase, Docker, Git, WordPress, Vercel"></a>
 
 ### 🚀 Projets
 
